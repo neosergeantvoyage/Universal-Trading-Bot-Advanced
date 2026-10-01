@@ -1,0 +1,26 @@
+{
+  "repo": "universal-trading-bot-advanced",
+  "product": "Universal Trading Bot Advanced",
+  "kind": "finance",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part3",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "trading-finance",
+  "topics": [
+    "universal-trading-bot-advanced",
+    "universal-desktop",
+    "universal-windows",
+    "technical-analysis",
+    "candlestick-charts",
+    "forex-charts",
+    "crypto-charts",
+    "market-screening",
+    "price-alerts",
+    "watchlist-tools",
+    "desktop-trading",
+    "windows-trading-app",
+    "investment-tools"
+  ],
+  "site": "zentool.art"
+}
